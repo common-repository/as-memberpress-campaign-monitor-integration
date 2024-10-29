@@ -1,0 +1,75 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MemberPress Campaign Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-11 10:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Author of the plugin
+msgid "Akshar Soft Solutions"
+msgstr ""
+
+#: views/options.php:8
+msgid "Campaign Monitor API Key:"
+msgstr ""
+
+#. Description of the plugin
+msgid "Campaign Monitor Autoresponder integration for MemberPress."
+msgstr ""
+
+#: views/membership.php:3
+msgid "Campaign Monitor Lists for this Membership"
+msgstr ""
+
+#: views/membership.php:39
+msgid "Campaign Monitor Opt-in Checkbox Label"
+msgstr ""
+
+#: views/membership.php:44
+msgid "Campaign Monitor Opt-in Legal Note"
+msgstr ""
+
+#: views/options.php:3
+msgid "Enable Campaign Monitor"
+msgstr ""
+
+#: views/membership.php:6
+msgid "Enable Campaign Monitor List Subscription Membership"
+msgstr ""
+
+#: views/options.php:22
+msgid "Hide Opt In Check box on Sign Up Page"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://aksharsoftsolutions.com/"
+msgstr ""
+
+#. Name of the plugin
+msgid "MemberPress Campaign Monitor"
+msgstr ""
+
+#: views/membership.php:7
+msgid ""
+"Select Campaing list for which you want to register user on subscription"
+msgstr ""
+
+#: views/membership.php:25
+msgid "Select List"
+msgstr ""
+
+#: views/options.php:13
+msgid ""
+"You can find your API key under your Account settings at createsend.com."
+msgstr ""
